@@ -1,0 +1,29 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+header {
+    background-color: rgb(147, 175, 213);
+    padding: 10px;
+    border-left: 5px solid rgb(156, 223, 212);
+    border-right: 5px solid rgb(156, 223, 212);
+}
+
+h1 {
+    color: rgb(89, 167, 156);
+    font-style: italic;
+    
+}
+
+h2 {
+    color: rgb(162, 200, 200) ;
+    font-style: oblique;
+}
+
+h3 {
+    color: rgb(162, 200, 200);
+    font-style: oblique;
+
+}
